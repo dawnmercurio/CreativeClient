@@ -1,0 +1,8 @@
+
+		body{font-family: "Droid Sans", arial, sans-serif; text-align:center;}
+		h1 {font-size:50px; font-family: "Open Sans","Droid Sans", arial, sans-serif; font-weight:normal}
+		#wrapper{border-left:1px solid #cccccc;border-right:1px solid #cccccc;margin:0 auto;padding: 0 20px;width: 700px}
+		#generator{background:#e9f3f6;border:1px solid #cccccc;margin:20px 0;font-size:18px;font-weight:bold;padding:50px 0 20px;text-align:center;-moz-border-radius: 5px;-webkit-border-radius: 5px;}
+		#generator input{font-size:16px;font-weight:bold;margin-top: 30px}
+		#footer{font-size: 10px; color: #999; margin: 30px 0 0 0;}
+		#footer a{color:#999}
